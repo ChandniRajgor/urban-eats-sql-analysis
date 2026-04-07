@@ -3,6 +3,10 @@
 This project analyzes a food delivery platform dataset to uncover insights on revenue trends, customer behavior, and restaurant performance using SQL.
 
 ---
+## 📂 How to Access Data
+
+Download dataset from Kaggle  
+Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/vainero/restaurants-customers-orders-dataset/data?select=orders.csv)
 
 ## 🎯 Business Problem
 
